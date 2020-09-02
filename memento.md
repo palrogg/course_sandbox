@@ -31,7 +31,7 @@ Avec le paramètre **encoding**:<br>
 ### Afficher les premières lignes
 `df.head()`
 
-### Afficher les colonnes
+### Afficher le nom des colonnes
 `df.columns`
 
 ### Afficher des colonnes spécifiques
