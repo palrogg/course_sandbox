@@ -5,7 +5,7 @@ Voir aussi [le memento sur Python](PDF/Python3_reference_cheat_sheet_day_2.pdf) 
 ## Importer le module
 `import pandas as pd`
 
-## Charger un fichier
+## Charger un fichier
 
 `df = pd.read_csv('mon-fichier.csv')`
 
@@ -39,7 +39,7 @@ Avec le paramètre **encoding**:<br>
 
 ## Filtrer
 On glisse une condition «if» dans notre dataframe:<br>
-`condition = df['colonne-1'] == 0`
+`condition = df['colonne-1'] == 0`  
 `df[ condition ]`
 
 ou plus simplement:<br>
